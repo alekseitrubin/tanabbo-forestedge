@@ -44,4 +44,4 @@ Feel free to contribute to this project. Please follow the guidelines outlined i
 This notebook was developed as an independent extension of my work on TANABBO Version 1.27.1. Special thanks to the TANABBO team and community.
 
 ## Disclaimer
-The tool is provided "as is," with no warranties. Users are responsible for their application of the tool and interpretations of the results.
+The tool is provided "as is", with no warranties. Users are responsible for their application of the tool and interpretations of the results.
